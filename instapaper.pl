@@ -30,9 +30,6 @@ my $ua = new LWP::UserAgent;
 
 sub cmd_instapaper {
   my ($data, $server, $window) = @_;
-  if ($window) {
-    Irssi::print("Yes");
-  }
 
   my $username = Irssi::settings_get_str("instapaper_username");
   my $password = Irssi::settings_get_str("instapaper_password");
