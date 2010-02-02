@@ -44,7 +44,8 @@ sub cmd_instapaper {
               [ 
                 username => $username, 
                 password => $password,
-                url => $data
+                url => $data,
+                'auto-title' => 1
               ];
   my $response = $ua->request($req);
 
