@@ -2,10 +2,10 @@
 
 ### Usage
 
-  /script load instapaper.pl
-  /set instapaper_username <USERNAME>
-  /set instapaper_password <PASSWORD> (optional if you have a password)
-  /instapaper <URL>
+		/script load instapaper.pl
+		/set instapaper_username <USERNAME>
+		/set instapaper_password <PASSWORD> (optional if you have a password)
+		/instapaper <URL>
 
 ### Requirements
 
@@ -16,8 +16,8 @@ You must have the following installed:
 
 install these from CPAN:
 
-  cpan>install LWP
-  cpan>install Crypt::SSLeay
+		cpan>install LWP
+		cpan>install Crypt::SSLeay
 
 ### Author
 
