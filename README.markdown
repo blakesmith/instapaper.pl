@@ -25,4 +25,4 @@ install these from CPAN:
 
 instapaper.pl is written by Blake Smith <blakesmith0@gmail.com>
 
-[instapaper_screenshot]: http://github.com/blakesmith/conversion-scripts/raw/master/media/instapaper.png "instapaper.pl screenshot"
+[instapaper_screenshot]: http://github.com/blakesmith/instapaper.pl/raw/master/media/instapaper.png "instapaper.pl screenshot"
